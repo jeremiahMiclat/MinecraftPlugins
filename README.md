@@ -4,4 +4,5 @@ These plugins were created as requested by the players
 
 Links:  
 PotionDurationExtend [Link to source code](https://github.com/jeremiahMiclat/PotionDurationExtend)  
-EzVillagerTrade [Link to source code](https://github.com/jeremiahMiclat/EzVillagerTrade)
+EzVillagerTrade [Link to source code](https://github.com/jeremiahMiclat/EzVillagerTrade)  
+ProtectYourVillagersMessage [Link to source code](https://github.com/jeremiahMiclat/CustomMessages)
